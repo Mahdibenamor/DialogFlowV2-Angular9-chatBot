@@ -1,0 +1,14 @@
+[
+  {"id":0,"question" : "Hi,I'm Mo7sen at your service, do you have any question?", "response" : [
+    {"answer":"yes","nextQuestionId":1},{"answer":"no","nextQuestionId":0}
+  ]},
+  {"id":1,"question" : "in which fields ?", "response" : [
+    {"answer":"integration","nextQuestionId":2},{"answer":"tools","nextQuestionId":3}
+  ]},
+  {"id":2,"question" : "in which component ?", "response" : [
+    {"answer":"MT","nextQuestionId":null},{"answer":"Mo","nextQuestionId": null}
+  ]},
+  {"id":3,"question" : "in which tool ?", "response" : [
+    {"answer":"jenkins","nextQuestionId":null},{"answer":"ansible","nextQuestionId": null}
+  ]}
+]
